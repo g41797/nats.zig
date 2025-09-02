@@ -15,5 +15,6 @@ In the meantime there are a few projects that have started that might be worth l
 - [NATS C client library, packaged for Zig](https://github.com/allyourcodebase/)
 - [Zig language bindings to the NATS.c library](https://github.com/epicyclic-dev/nats-client)
 - [Zig client for NATS Core and JetStream](https://github.com/g41797/nats)
+- [A Zig client library for NATS, the cloud-native messaging system](https://github.com/lalinsky/nats.zig)
 - [Minimal synchronous NATS Zig client](https://github.com/ianic/nats.zig)
 - [Work-in-progress NATS library for Zig](https://github.com/rutgerbrf/zig-nats)
